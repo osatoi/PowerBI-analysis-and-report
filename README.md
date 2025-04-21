@@ -54,13 +54,14 @@ The remaining two dimension tables; 'Return' table and 'People' table are connec
 ## Data Analysis and Visuals
 ![](dashboard.png)
 1. From the dashboard, it is observed that it takes 4 days on average to deliver each product on every order.
-2. Total sales made in 2012= 2.26M, 2013=2.68M ,2014=3.41M ,2015=4.30M.
-   :-------------|-------------:
-   :year|Total sales made:
-   :2012|2.26M:
-   :2013|2.28M:
-   :2014|3.41M:
-   :2015|4.3M:
+2. Total sales made
+
+Year|Total sales made
+:----|------:
+2012|2.26M
+2013|2.28M
+2014|3.41M
+2015|4.3M
 3. Sales is highest in the Western Europe region with almost 450k dollars.
 
 ![](top10.png)
