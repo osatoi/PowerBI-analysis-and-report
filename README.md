@@ -49,7 +49,7 @@ To have an idea of how long it takes on average for orders to be dilevered, [del
 Power BI automatically connected related tables resulting in a star schema model.
 The 'Order' table is the fact table of the model.
 The remaining two dimension tables; 'Return' table and 'People' table are connected to the 'Order' table via the common columns: 'order ID' and Region respectively.
-![](mode2.png)
+![](model2.png)
 
 ## Data Analysis and Visuals
 ![](dashboard.png)
